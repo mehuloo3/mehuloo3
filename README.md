@@ -6,7 +6,7 @@ IT Student
 
 I always want to learn the new technology and Application based based learning. I am student of Information Technology Branch in LD college of engineering into 3rd year.
 
-* 🌍  I'm based in Mahisagar,Gujrat
+* 🌍  I'm based in Mahisagar,Gujarat
 * ✉️  You can contact me at [mehultaviyad03@gmail.com](mailto:mehultaviyad03@gmail.com)
 * 🧠  I'm learning React-js and express-js.
 * 🤝  I'm open to collaborating on web developing.
