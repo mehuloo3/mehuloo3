@@ -10,7 +10,6 @@ I always want to learn the new technology and Application based based learning. 
 * ✉️  You can contact me at [mehultaviyad03@gmail.com](mailto:mehultaviyad03@gmail.com)
 * 🧠  I'm learning React-js and express-js.
 * 🤝  I'm open to collaborating on web developing.
-* ⚡  also to work into the AI/Ml.
 
 ### Skills
 
