@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Student
 ----------
 
-I always want to learn the new technology and Application based based learning. I am student of Information Technology Branch in LD college of engineering into 4th year.
+I always want to learn the new technology and Application based based learning.
 
 * 🌍  I'm based in Mahisagar,Gujarat
 * ✉️  You can contact me at [mehultaviyad03@gmail.com](mailto:mehultaviyad03@gmail.com)
